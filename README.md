@@ -7,5 +7,5 @@ Main languages: **Java, Python, C#**
 - 🌱 Currently busy with **my studies** 😢  
 - 📫 How to reach me: **DM me on Discord: uxokpro1234**
 - 
-// Used to play HVH Minecraft during COVID back in 2021 😎
+Used to play HVH Minecraft during COVID back in 2021 😎
 
