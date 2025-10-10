@@ -11,7 +11,7 @@ Used to play HVH Minecraft during COVID back in 2021 😎
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UxusNoob&show_icons=true&theme=radical)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UxusNoob&layout=compact&theme=dark_dimmed)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UxusNoob&layout=compact&theme=dark)
 <br>
 ![Profile Views](https://komarev.com/ghpvc/?username=UxusNoob&style=flat-square)
 
