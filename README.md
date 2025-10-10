@@ -10,10 +10,8 @@ Main languages: **Java, Python, C#**
 Used to play HVH Minecraft during COVID back in 2021 😎
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UxusNoob&layout=compact&theme=dark)
-
 <br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UxusNoob&show_icons=true&theme=radical)
-
 <br>
 ![Profile Views](https://komarev.com/ghpvc/?username=UxusNoob&style=flat-square)
 
