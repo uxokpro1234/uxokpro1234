@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm uxokpro1234
 
-<img src = https://cdn.discordapp.com/attachments/1250898348504780813/1450250042144198838/channels4_banner.jpg?ex=6941da1a&is=6940889a&hm=2db22924a258a75ff778454344d256729f3cce11ab67b03bdf2504c3115da354&>
+![IMAGE]https://cdn.discordapp.com/attachments/1250898348504780813/1450250042144198838/channels4_banner.jpg?ex=6941da1a&is=6940889a&hm=2db22924a258a75ff778454344d256729f3cce11ab67b03bdf2504c3115da354&
 I'm passionate about coding, music and pretty good at a bunch of things!  
 Main languages: **Java, Python, C#**
 
