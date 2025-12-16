@@ -7,7 +7,7 @@ Main languages: **Java, Python, C#**
 
 - 🔭 I’m tinkering with **Minecraft mods** and **ESP32** from time to time  
 - 🌱 Currently busy with **my studies** 😢  
-- 📫 How to reach me: **DM me on Discord: uxokpro1234**
+- 📫 How to reach me: **DM me on Discord: uxokpro1234**.
 Used to play HVH Minecraft during COVID back in 2021. 😎
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uxokpro1234&layout=compact&theme=dark)
