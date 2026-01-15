@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm uxokpro1234
 
-<img src="banner.jpg" alt="banner">
+<img src="banner.gif" alt="banner">
 
 I'm passionate about coding, music and pretty good at a bunch of things!  
 Main languages: **Java, Python, C#**
