@@ -4,9 +4,6 @@
 
 I'm passionate about coding, music and pretty good at a bunch of things!  
 Main languages: **Java, Python, C#**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
 
 - 🔭 I’m tinkering with **Minecraft mods** and **ESP32** from time to time  
 - 🌱 Currently busy with **my studies** 😢  
