@@ -9,8 +9,8 @@ Main languages: **Java, Python, C#**
 - 🌱 Currently busy with **my studies** 😢  
 - 🎮 Used to play HVH Minecraft during COVID back in 2021 😎
 
-- 🏆 Best of Baltics in vanilla cpvp, top 15 Europe. (2022-2023)
-- 🏆 1st from CIS countries to win cpvp tournament
+- 🏆 Best of Baltics in Vanilla CPVP, top 15 Europe. (2022-2023)
+- 🏆 1st player from CIS countries to win CPVP tournament
 - 📫 How to reach me: **DM me on Discord: uxokpro1234**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=uxokpro1234&style=flat-square)
