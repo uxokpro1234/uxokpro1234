@@ -4,7 +4,7 @@ I'm passionate about coding, music and pretty good at a bunch of things!
 Main languages: **Java, Python, C#**
 
 - 🔭 I’m tinkering with **Minecraft mods** and **ESP32** from time to time
-- 🌱 Currently culling from **my studies**
+- 🌱 Currently recovering from **my studies**
 - 🎵 Making music whenever inspiration strikes(I love FL Studio)
   
  <br>
