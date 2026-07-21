@@ -7,7 +7,7 @@ Main languages: **Java, Python, C#**
 - 🌱 Currently culling from **my studies**
 - 🎵 Making music whenever inspiration strikes(I love FL Studio)
   
- <br></br>
+ <br>
  
 - 🎮 Used to play HVH Minecraft during COVID back in 2021 😎
 - 🏆 Best of Baltics in Vanilla CPVP, top 5 CIS, top 15 Europe. (2022-2023)
