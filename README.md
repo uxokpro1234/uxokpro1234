@@ -6,7 +6,7 @@ Main languages: **Java, Python, C#**
 - 🔭 I’m tinkering with **Minecraft mods** and **ESP32** from time to time
 - 🌱 Currently culling from **my studies**
 - 🎵 Making music whenever inspiration strikes(I love FL Studio)
-<br>
+</br>
 - 🎮 Used to play HVH Minecraft during COVID back in 2021 😎
 - 🏆 Best of Baltics in Vanilla CPVP, top 5 CIS, top 15 Europe. (2022-2023)
 - 🏆 First CIS player to win a CPVP tournament (4v4 armour drain)
