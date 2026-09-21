@@ -1,9 +1,9 @@
 ### Hi there! 👋 I'm uxokpro1234
 
 I'm passionate about coding, music and pretty good at a bunch of things!  
-Main languages: **Java, Python, C#**
+Main languages: **Java, C++, C#**, Python
 
-- 🔭 I’m tinkering with **Minecraft mods** and **ESP32** from time to time
+- 🔭 I’m tinkering with **Minecraft mods** and **C++** from time to time
 - 🌱 Currently studying in the university
 - 🎵 Making music whenever inspiration strikes(I love FL Studio)
 - 🎮 Used to play HVH Minecraft during COVID back in 2021 😎
