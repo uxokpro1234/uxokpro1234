@@ -3,8 +3,7 @@
 I'm passionate about coding, music and pretty good at a bunch of things!  
 Main languages: **Java, C++, C#**, Python
 
-- 🔭 I’m tinkering with **Minecraft mods** and **C++** from time to time
-- 🌱 Currently studying in the university
+- 🌱 Currently studying at the University of Latvia
 - 🎵 Making music whenever inspiration strikes(I love FL Studio)
 - 🎮 Used to play HVH Minecraft during COVID back in 2021 😎
 - 🏆 Best of Baltics in Vanilla CPVP, top 5 CIS, top 15 Europe. (2022-2023)
