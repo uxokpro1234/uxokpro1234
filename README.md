@@ -1,7 +1,7 @@
 ### Hi there! 👋 I'm uxokpro1234
 
 I'm passionate about coding, music and pretty good at a bunch of things!  
-Main languages: **Java, C++, C#**, Python
+Main languages: **Java, C++
 
 - 🌱 Currently studying at the University of Latvia
 - 🎵 Making music whenever inspiration strikes(I love FL Studio)
