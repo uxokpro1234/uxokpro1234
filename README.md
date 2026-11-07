@@ -9,4 +9,8 @@ Main languages: Java, C++
 - 🏆 First CIS player to win a CPVP tournament (4v4 armour drain) <a href="https://challonge.com/27lxfzyw">(26.08.2023)</a>
 - 📫 How to reach me: **DM me on Discord: uxokpro1234**
 
+  
+[![committers.top badge](https://user-badge.committers.top/latvia/uxokpro1234.svg)](https://user-badge.committers.top/latvia/uxokpro1234)
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=uxokpro1234&style=flat-square)
