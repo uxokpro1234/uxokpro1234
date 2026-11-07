@@ -10,7 +10,7 @@ Main languages: Java, C++
 - 📫 How to reach me: **DM me on Discord: uxokpro1234**
 
   
-[![committers.top badge](https://user-badge.committers.top/latvia/uxokpro1234.svg)](https://user-badge.committers.top/latvia/uxokpro1234)
+[![committers top badge](https://user-badge.committers.top/latvia/uxokpro1234.svg)](https://user-badge.committers.top/latvia/uxokpro1234)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=uxokpro1234&style=flat-square)
